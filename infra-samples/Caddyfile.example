@@ -1,0 +1,11 @@
+example.com {
+  encode gzip
+  reverse_proxy app:1234
+
+  header {
+    # basic hardening
+    X-Content-Type-Options "nosniff"
+    X-Frame-Options "DENY"
+    Referrer-Policy "no-referrer"
+  }
+}
